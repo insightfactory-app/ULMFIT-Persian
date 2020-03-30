@@ -1,7 +1,7 @@
 # ULMFiT Model for the Persian Language
 ULMFIT Persian language model based on fast.ai .
 
-This repository contains documentation and code for building a Persian Language Model using the [fastai library] (https://github.com/fastai/fastai) .
+This repository contains documentation and code for building a Persian Language Model using the [fastai library](https://github.com/fastai/fastai) .
 
 based on [this paper](https://arxiv.org/abs/1801.06146)
 
